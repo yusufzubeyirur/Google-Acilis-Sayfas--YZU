@@ -1,1 +1,1 @@
-# Google-Acilis-Sayfas--YZU
+# Google-Açılış-Sayfası-YZU
