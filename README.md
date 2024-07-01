@@ -1,2 +1,2 @@
 # Google-Açılış-Sayfası-YZU
-https://github.com/yusufzubeyirur/Google-Acilis-Sayfas--YZU.git
+https://yusufzubeyirur.github.io/Google-Acilis-Sayfas--YZU/
